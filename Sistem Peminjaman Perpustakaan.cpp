@@ -54,6 +54,12 @@ int main () {
     cout << "Silahkan tentukan pilihan Anda [1] - [7]\n";
     cin >> n ;
 
-    
+    switch(n)
+        case 2 : {
+    string buku(string buku[], string key, int 
+        }
+
+    }
+
     return 0;
 }
